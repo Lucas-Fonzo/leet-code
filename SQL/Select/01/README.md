@@ -1,4 +1,6 @@
-# Products
+# 1757. Recyclable and Low Fat Products
+
+## Products
 
 | Column Name | Type  |
 |-------------|-------|
